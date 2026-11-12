@@ -1,0 +1,16 @@
+:root{--bg:#fff;--fg:#1c2733;--mut:#5b6b7a;--brand:#185FA5;--soft:#eef4fa;--line:#d9e2ec}
+@media(prefers-color-scheme:dark){:root{--bg:#10171e;--fg:#e8eef4;--mut:#9fb0c0;--brand:#6db3f2;--soft:#18222c;--line:#2b3947}}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--fg);font:17px/1.65 "Be Vietnam Pro","Segoe UI",-apple-system,Roboto,system-ui,sans-serif}
+main,.top,footer{max-width:760px;margin:0 auto;padding:0 16px}
+.top{display:flex;justify-content:space-between;align-items:center;padding:12px 16px}
+.brand{font-weight:700;color:var(--brand);text-decoration:none}
+.get,.btn{background:var(--brand);color:#fff;padding:8px 14px;border-radius:8px;text-decoration:none;font-weight:600;font-size:15px}
+a{color:var(--brand)}h1{font-size:1.7rem;line-height:1.25;margin:.4em 0 .2em}h2{font-size:1.25rem;margin:1.6em 0 .4em}h3{font-size:1.05rem;margin:1em 0 .2em}
+.jp{color:var(--mut)}.meta{font-size:.85rem;color:var(--mut)}.lead{font-size:1.05rem}.crumb{font-size:.85rem;color:var(--mut);margin-top:8px}
+.quick,.cta{background:var(--soft);border:1px solid var(--line);border-radius:12px;padding:4px 16px 12px;margin:1.2em 0}
+.cta{padding:14px 16px}.cta p{margin:.3em 0 .8em;color:var(--mut)}dt{font-weight:700;margin-top:.6em}dd{margin:0}
+ol.steps{padding-left:1.2em}ol.steps li{margin-bottom:1em}.tip{background:var(--soft);border-radius:8px;padding:8px 12px}
+details{border-bottom:1px solid var(--line);padding:8px 0}summary{cursor:pointer;font-weight:600}
+.phrases{list-style:none;padding:0}.phrases li{border-left:3px solid var(--brand);padding:2px 0 2px 12px;margin:.8em 0}
+.grid{list-style:none;padding:0;display:grid;gap:8px}.grid a{display:block;padding:12px 14px;border:1px solid var(--line);border-radius:10px;text-decoration:none;color:var(--fg)}
+footer{color:var(--mut);font-size:.85rem;padding:24px 16px 48px}
