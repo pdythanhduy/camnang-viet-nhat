@@ -1,3 +1,2 @@
 User-agent: *
 Allow: /
-Sitemap: https://pdythanhduy.github.io/camnang-viet-nhat/sitemap.xml
