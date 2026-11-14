@@ -1,0 +1,53 @@
+{
+  "updated": "2026-11-14",
+  "items": [
+    {
+      "id": "2026-10-visa-fee",
+      "date": "2026-10-04",
+      "title": "Từ 01/10/2026: phí gia hạn và đổi visa tính theo thời hạn lưu trú",
+      "summary": "Phí 在留期間更新 và 在留資格変更 không còn 6.000 yên đồng loạt mà tính theo thời hạn được cấp: từ 10.000 yên (dưới 3 tháng) đến 75.000 yên (5 năm, nộp tại quầy).",
+      "guideId": "visa-fee-increase-2025-2026",
+      "source": "Theo ISA (Cục Quản lý xuất nhập cảnh)"
+    },
+    {
+      "id": "2026-06-specific-card",
+      "date": "2026-10-16",
+      "title": "Thẻ cư trú tích hợp My Number (特定在留カード) đã được cấp từ 14/06/2026",
+      "summary": "ISA bắt đầu cấp thẻ hợp nhất cho người thuộc nhóm điều kiện. Không phải đổi bắt buộc. Xem ai đủ điều kiện và nên làm gì.",
+      "guideId": "specific-residence-card-my-number-2026",
+      "source": "Theo ISA"
+    },
+    {
+      "id": "2027-04-ikusei-shuro",
+      "date": "2026-10-04",
+      "title": "育成就労 sẽ thay 技能実習 từ 01/04/2027: thực tập sinh cần biết gì",
+      "summary": "Hệ thống mới vận hành đầy đủ từ 01/04/2027. Năm 2026 là giai đoạn chuẩn bị, công ty và tổ chức đã bắt đầu nộp hồ sơ trước.",
+      "guideId": "ikusei-shuro-system-guide",
+      "source": "Theo ISA và Bộ Lao động Nhật"
+    },
+    {
+      "id": "2026-10-policy-update",
+      "date": "2026-10-16",
+      "title": "Tổng hợp chính sách Nhật 2026 cho người nước ngoài (cập nhật 16/10/2026)",
+      "summary": "Thẻ cư trú mẫu mới từ 14/06/2026, phí thủ tục và hướng dẫn xét vĩnh trú mới từ 01/10/2026, và những gì có hiệu lực từ 01/04/2027.",
+      "guideId": "japan-policy-update-2026-foreign-residents",
+      "source": "Theo ISA"
+    },
+    {
+      "id": "2025-12-mynaho",
+      "date": "2026-10-04",
+      "title": "Thẻ bảo hiểm y tế bằng My Number: thời kỳ chuyển tiếp đã kết thúc 01/12/2025",
+      "summary": "Thẻ bảo hiểm giấy cũ hết hiệu lực từ 01/12/2025. Bộ Lao động vẫn có biện pháp tạm thời, cách chuẩn bị để đi khám không bị vướng.",
+      "guideId": "myna-health-insurance-card-2026",
+      "source": "Theo Bộ Lao động Nhật (厚労省)"
+    },
+    {
+      "id": "2026-visa-highlights",
+      "date": "2026-10-16",
+      "title": "Các diện visa đáng chú ý 2026: J-Skip, J-Find, Digital Nomad, Start-up",
+      "summary": "Tổng hợp diện visa được quan tâm trong năm 2026 và các điểm dễ nhầm. Không phải diện nào cũng phù hợp cho mọi quốc tịch.",
+      "guideId": "visa-highlights-2026",
+      "source": "Theo ISA"
+    }
+  ]
+}
