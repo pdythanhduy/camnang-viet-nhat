@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-14",
+  "updated": "2026-11-15",
   "items": [
+    {
+      "id": "2026-11-saitei-chingin",
+      "date": "2026-11-15",
+      "title": "Lương tối thiểu 2026: trung bình 1.177 yên/giờ, Osaka 1.231, Tokyo 1.280",
+      "summary": "Mức mới áp dụng dần từ 01/10 đến 02/12/2026 tùy từng tỉnh, tăng bình quân 56 yên (5,0%). Osaka và Tokyo áp dụng từ 01/10. Kiểm tra phiếu lương xem giờ làm của bạn có thấp hơn mức này không.",
+      "guideId": "payslip-reading",
+      "source": "Theo Bộ Lao động Nhật (厚労省), bảng 令和8年度 地域別最低賃金"
+    },
     {
       "id": "2026-10-visa-fee",
       "date": "2026-10-04",
