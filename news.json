@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-15",
+  "updated": "2026-11-16",
   "items": [
+    {
+      "id": "2026-12-kiso-koujo",
+      "date": "2026-11-16",
+      "title": "Từ 12/2026: 基礎控除 tăng lên 104 vạn yên, miễn thuế nhiều hơn khi 年末調整",
+      "summary": "Cải cách thuế 令和8年 áp dụng từ 01/12/2026: 基礎控除 95→104 vạn yên (thu nhập ≤132 vạn), 給与所得控除 tối thiểu 65→74 vạn, ngưỡng người phụ thuộc 58→62 vạn. Ảnh hưởng 年末調整 tháng 12.",
+      "guideId": "tax-year-end-adjustment-filing",
+      "source": "Theo 国税庁 (Cục Thuế), tài liệu 令和8年分 年末調整のしかた"
+    },
     {
       "id": "2026-11-saitei-chingin",
       "date": "2026-11-15",
