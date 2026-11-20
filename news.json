@@ -1,6 +1,14 @@
 {
-  "updated": "2026-11-16",
+  "updated": "2026-11-20",
   "items": [
+    {
+      "id": "2026-11-fuyo-ido",
+      "date": "2026-11-20",
+      "title": "Người thân mới đủ điều kiện phụ thuộc từ 12/2026: nhớ nộp 異動申告書 cho công ty",
+      "summary": "Ngưỡng thu nhập người phụ thuộc tăng 58→62 vạn yên từ 01/12/2026. Ai trước đây vượt ngưỡng nay đủ điều kiện thì phải nộp 扶養控除等(異動)申告書 mới được trừ thuế. Hỏi bộ phận nhân sự trước 年末調整.",
+      "guideId": "tax-year-end-adjustment-filing",
+      "source": "Theo 国税庁, tài liệu 令和8年分 年末調整のしかた"
+    },
     {
       "id": "2026-12-kiso-koujo",
       "date": "2026-11-16",
